@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 FARINHA DE ROSCA
 Guiliver
 
 
 Novo Arquivo
 Impostor
-Among Us
+Among UsAmong Us
+=======
+FARINHA DE ROSCA
+>>>>>>> parent of 81654f8 (SegundaSubida)
